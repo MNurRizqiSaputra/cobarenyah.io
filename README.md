@@ -2,8 +2,8 @@
 Version Control System (VCS) : Git/Github
 
 ## Pengajar
-Pemateri = Pak Akhmad Arip
-Mentor = Ahmad Fathan Syakir
+- Pemateri = Pak Akhmad Arip
+- Mentor = Ahmad Fathan Syakir
 
 ## Kelompok 3
 1. Gabriel
