@@ -1,35 +1,25 @@
-# Judul Proyek
+# TUGAS GIT COLLABORATION
+Version Control System (VCS) : Git/Github
 
-Tuliskan judul proyekmu disini.
+## Pengajar
+Pemateri = Pak Akhmad Arip
+Mentor = Ahmad Fathan Syakir
 
-## Deskripsi
+## Kelompok 3
+1. Gabriel
+2. Hairul Bahri
+3. Helfi Apriliyandi Firdaos
+4. Marchella Vidya A.C.Walone
+5. Muchammad Mufti Ziendani
+6. Muhammad Nur Rizqi Saputra
+7. Muhammad Sayyid Sajid
 
-Deskripsikan proyekmu secara singkat dan jelas disini.
+## Rincian tugas
 
-## Fitur
+Git Collaboration:
+- Buatlah repo baru dengan akses Private dan ajak collaborate teman didalam satu kelompok mentor (satu mentor dibagi 4 kelompok) silahkan ditentukan digrup kelompok masing-masing 
+- Ajak gabung github mentor masing-masing dan akun arip86
+- Buatlah satu branch untuk satu akun didalam repo tersebut
 
-Berikut beberapa fitur yang tersedia di dalam proyek ini:
-
-- Fitur 1
-- Fitur 2
-- Fitur 3
-
-## Cara Menggunakan
-
-Ikuti langkah-langkah dibawah ini untuk menggunakan proyek ini:
-
-1. Langkah 1
-2. Langkah 2
-3. Langkah 3
-
-## Kontribusi
-
-Silakan kontribusikan proyek ini dengan melakukan hal-hal berikut:
-
-1. Menambahkan fitur baru
-2. Memperbaiki bug yang ada
-3. Meningkatkan dokumentasi
-
-## Lisensi
-
-Tuliskan lisensi yang digunakan untuk proyekmu. Contohnya: [MIT License](https://opensource.org/licenses/MIT) atau [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Git Pages:
+- Buatlah github page dan masukan linknya ke LSM (Repository terpisah pada setiap akun masing-masing)
